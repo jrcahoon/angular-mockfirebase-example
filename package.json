@@ -1,0 +1,23 @@
+{
+  "name": "angular-mockfirebase-example",
+  "version": "0.0.0",
+  "description": "Example of how to test a bare-bones angular app using firebase",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrcahoon/angular-mockfirebase-example.git"
+  },
+  "keywords": [
+    "mockfirebase",
+    "firebase",
+    "angular"
+  ],
+  "author": "Jake Cahoon",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jrcahoon/angular-mockfirebase-example/issues"
+  }
+}
